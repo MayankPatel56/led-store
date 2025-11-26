@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "smart-bulbs",
+      "name": "Smart Bulbs",
+      "image": "/images/categories/smart-bulbs.jpg"
+    },
+    {
+      "id": "strip-lights",
+      "name": "LED Strip Lights",
+      "image": "/images/categories/strip-lights.jpg"
+    },
+    {
+      "id": "table-lamps",
+      "name": "Table Lamps",
+      "image": "/images/categories/table-lamps.jpg"
+    },
+    {
+      "id": "night-lights",
+      "name": "Night Lights",
+      "image": "/images/categories/night-lights.jpg"
+    },
+    {
+      "id": "wall-lights",
+      "name": "Wall Lights",
+      "image": "/images/categories/wall-lights.jpg"
+    },
+    {
+      "id": "festive-lights",
+      "name": "Festive Lights",
+      "image": "/images/categories/festive-lights.jpg"
+    },
+    {
+      "id": "decorative-lights",
+      "name": "Decorative Lights",
+      "image": "/images/categories/decorative-lights.jpg"
+    },
+    {
+      "id": "smart-lights",
+      "name": "Smart Lights",
+      "image": "/images/categories/smart-lights.jpg"
+    }
+  ]
+}
